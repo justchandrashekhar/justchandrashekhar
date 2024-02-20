@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **justchandrashekhar@gmail.com**
 
-- 📄 Know about my experiences [Resume]("C:\Users\chand\Downloads\Resume.pdf")
+- 📄 Know about my experiences [Resume](https://pdf.ac/1uA149)
 
 - ⚡ Fun fact **pursuing B.tech**
 
