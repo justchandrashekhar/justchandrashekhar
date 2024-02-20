@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandrashekhar Tidake</h1>
-<h3 align="center">I am a frontend Android developer and a Web developer</h3>
+<h3 align="center">I am a Frontend Android developer and a Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justchandrashekhar&label=Profile%20views&color=0e75b6&style=flat" alt="justchandrashekhar" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Flutter Dart Android app development**
 
-- 👨‍💻 Portfolio [int4o.vercel.app](int4o.vercel.app)
+- 👨‍💻 Portfolio (int4o.vercel.app)
 
 - 💬 Ask me about **Core Java & Python**
 
 - 📫 How to reach me **justchandrashekhar@gmail.com**
 
-- 📄 Know about my experiences [Resume.pdf](Resume.pdf)
+- 📄 Know about my experiences (Resume.pdf)
 
 - ⚡ Fun fact **pursuing B.tech**
 
