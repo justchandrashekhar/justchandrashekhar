@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter Dart Android app development**
 
-- 👨‍💻 Portfolio [int4o.vercel.app]( https://justchandrashekhar.github.io/Portfolio/)
+- 👨‍💻 Portfolio [ https://justchandrashekhar.github.io/Portfolio/]( https://justchandrashekhar.github.io/Portfolio/)
 
 - 💬 Ask me about **Core Java & Python**
 
