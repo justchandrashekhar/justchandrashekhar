@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Flutter Dart Android app development**
 
-- 👨‍💻 Portfolio [int4o.vercel.app)]
+- 👨‍💻 Portfolio [int4o.vercel.app] (int4o.vercel.app)
 
 - 💬 Ask me about **Core Java & Python**
 
 - 📫 How to reach me **justchandrashekhar@gmail.com**
 
-- 📄 Know about my experiences [Resume.pdf]
+- 📄 Know about my experiences [Resume.pdf] (Resume.pdf)
 
 - ⚡ Fun fact **pursuing B.tech**
 
