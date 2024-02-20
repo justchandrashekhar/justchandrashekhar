@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chandrashekhar Tidake</h1>
-<h3 align="center">I am a Frontend Android developer and a Web developer</h3>
+<h1 align="left">Hi 👋, I'm Chandrashekhar Tidake</h1>
+<h3 align="left">I am a Frontend Android developer and a Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justchandrashekhar&label=Profile%20views&color=0e75b6&style=flat" alt="justchandrashekhar" /> </p>
 
